@@ -1,0 +1,3 @@
+export const REGISTERSUCCESS="REGISTERSUCCESS";
+export const LOADING="LOADING"
+export const ERROR="ERROR"
